@@ -1,0 +1,27 @@
+{
+  "name": "node-webkit-gh-release",
+  "version": "0.0.1",
+  "description": "Update your Node-webkit application using Github Releases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:djalmaaraujo/node-webkit-github-release-updater.git"
+  },
+  "keywords": [
+    "node-webkit",
+    "github",
+    "release",
+    "updater",
+    "update",
+    "system"
+  ],
+  "author": "Djalma Araujo",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "request": "^2.40.0"
+  }
+}
